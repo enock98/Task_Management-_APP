@@ -6,5 +6,5 @@ the information later when needed
 # This program is supported accross all platforms 
 
 # Installation
-##this program does not require any installation.
+### This program does not require any installation.
 You can just run the program.exe.file
